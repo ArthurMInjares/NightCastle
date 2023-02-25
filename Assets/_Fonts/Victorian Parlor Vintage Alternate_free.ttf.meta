@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: f6dd3bd7c5d918e45a4545495b2d238c
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Victorian Parlor Vintage Alternate_free
+  fontNames:
+  - Victorian Parlor Vintage Alternate_free
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

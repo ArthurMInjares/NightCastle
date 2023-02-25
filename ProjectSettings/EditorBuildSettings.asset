@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/_Scenes/Version 2/MainMenu.unity
+    guid: 754b711103bcf49d9a3d0512c7a6a444
+  - enabled: 1
+    path: Assets/_Scenes/Version 2/Library_Level_V2.unity
+    guid: 6038e52842147ff4290974e8ef2dfbdf
+  - enabled: 1
+    path: Assets/_Scenes/Version 2/Kitchen_Level.unity
+    guid: 9b1f288b200cfbe4c916b60bc3bc4740
+  - enabled: 1
+    path: Assets/_Scenes/Version 2/Masters_Lair.unity
+    guid: cb0094e8a7c21414cb488fd23831453a
+  - enabled: 1
+    path: Assets/_Scenes/Version 2/EndingCutScene.unity
+    guid: 83d6cc911de0e4b4daa7ab857dd33c3b
+  m_configObjects: {}
