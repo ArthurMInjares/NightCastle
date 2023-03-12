@@ -18,7 +18,7 @@ public class JumpScare : MonoBehaviour {
     }
 
     IEnumerator EndJump() {
-        yield return new WaitForSeconds (3.03f);
+        yield return new WaitForSeconds (1.5f);
         Dimitri.SetActive (true);
         JumpCam.SetActive(false);
         Flashing.SetActive (false);
