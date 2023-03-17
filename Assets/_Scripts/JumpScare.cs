@@ -12,7 +12,7 @@ public class JumpScare : MonoBehaviour {
     void OnTriggerEnter () {
         Scream.Play ();
         JumpCam.SetActive (true);
-        Dimitri.SetActive (false);
+        Dimitri.SetActive (true);
         Flashing.SetActive (true);
         StartCoroutine (EndJump ());
     }
