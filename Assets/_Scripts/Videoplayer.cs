@@ -17,11 +17,11 @@ public class Videoplayer : MonoBehaviour
 
         videoPlayer.renderMode = UnityEngine.Video.VideoRenderMode.CameraNearPlane;
 
-        videoPlayer.targetCameraAlpha = 0.5F;
+        videoPlayer.targetCameraAlpha = 1.0F;
 
-        videoPlayer.url = filePath + "/_Cutscenes/NightCastle_Storyboard.mp4";
+        videoPlayer.url = filePath + "/_Art/NightCastle.mp4";
 
-        videoPlayer.frame = 100;
+        //videoPlayer.frame = 100;
 
         videoPlayer.Play();
     }

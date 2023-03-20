@@ -28,7 +28,6 @@ public class AquireItem : MonoBehaviour
     void OnTriggerEnter(Collider itemCollider)
     {
         
-        
             aquired = true;
             Destroy(gameObject);
 
