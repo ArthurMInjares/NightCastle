@@ -21,7 +21,7 @@ public class Videoplayer : MonoBehaviour
 
         videoPlayer.url = filePath + "/_Art/NightCastle.mp4";
 
-        //videoPlayer.frame = 100;
+        videoPlayer.frame = 100;
 
         videoPlayer.Play();
     }
