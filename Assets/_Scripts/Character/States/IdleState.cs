@@ -40,7 +40,7 @@ public class IdleState : MonoBehaviour, IState
         if (player.rb.velocity.y < 0 || player.rb.velocity.y > 0)
         {
             player.animator.SetBool("IsIdle", false);
-            player.animator.SetBool("IsLanding", true);
+            //player.animator.SetBool("IsLanding", true);
             float h = CrossPlatformInputManager.GetAxis("Horizontal");
             player.rb.AddForce(Physics.gravity * 4.0f, ForceMode.Acceleration);
             player.walk.ApplyForce(h);

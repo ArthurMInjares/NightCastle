@@ -21,6 +21,7 @@ public class StateMachine : MonoBehaviour
             }
             else
             {
+                //Debug.Log(newState);
                 ChangeState(newState);
                 newState = null;
             }
