@@ -6111,7 +6111,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: cfabb0440166ab443bba8876756fdfa9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  m_EffectColor: {r: 0, g: 0, b: 0, a: 0.5}
+  m_EffectColor: {r: 0.9716981, g: 0, b: 0.94847757, a: 0.5}
   m_EffectDistance: {x: 1, y: -1}
   m_UseGraphicAlpha: 1
 --- !u!114 &1422085792
@@ -6126,7 +6126,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a2c370fac6224004ca43e19272867309, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 50
+  speed: 25
 --- !u!114 &1422085793
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -6140,7 +6140,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
-  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_Color: {r: 0.990566, g: 0.97654855, b: 0.98890483, a: 1}
   m_RaycastTarget: 1
   m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
   m_Maskable: 1
@@ -6148,8 +6148,8 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls: []
   m_FontData:
-    m_Font: {fileID: 12800000, guid: c9f6d0e7bc8541498c9a4799ba184ede, type: 3}
-    m_FontSize: 25
+    m_Font: {fileID: 12800000, guid: 1f9853e6d57d2a740b8a056c50cde164, type: 3}
+    m_FontSize: 35
     m_FontStyle: 1
     m_BestFit: 0
     m_MinSize: 2
@@ -6160,12 +6160,13 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "\n\n\n\n\n\n\n\n\n\n\n\nNIGHT CASTLE\n\nCREDITS\n\nCreated By : \n\nArthur
-    Minjares\n\nREFERENCES\n\nAudio\n\nBackground Music :\n( Don't Own Rights To
-    Music )\n\n( Main Menu )\n\n?\n\n( Library Room ) \n\n - Requiem For A Dream
-    - Very Sad Violin\n\n( Kitchen Room )\n\n- Hello Zepp - SAW Original Score Soundtrack\n\n(
-    Master Room )\n\n - Freddy Krueger Theme song\n\n( Ending Scene )\n\n?\n\n( Credit
-    Scene )\n\n?\n\nAssets\n\nSome Free Assets packages\n\nUnity Asset Store\n"
+  m_Text: "\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNight Castle\n\n\nCredits\n\n\nCreated
+    by: Arthur Minjares\n\n\nReferences\n\n\n~ Audio ~\n\n\nBackground music:\n(Don't
+    own rights to music)\n\n\n(Main Menu)\n\n- Dark Creepy Gothic Piano Music - Divination\n\n\n(Library)
+    \n\n - Requiem For A Dream - Very Sad Violin\n\n\n(Kitchen)\n\n- Hello Zepp -
+    SAW Original Score Soundtrack\n\n\n(Master Bedroom)\n\n - Freddy Krueger Theme
+    song\n\n\n(Ending Scene)\n\n- Dark Creepy Gothic Piano Music - Divination\n\n\n~
+    Assets ~\n\n\nSome Free Assets packages\n\nUnity Asset Store\n"
 --- !u!222 &1422085794
 CanvasRenderer:
   m_ObjectHideFlags: 0
