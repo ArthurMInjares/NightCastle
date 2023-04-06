@@ -49,7 +49,7 @@ public class PlayerStateController : MonoBehaviour
     {
         stateMachine.UpdateState();
 
-        if (Input.GetKey(KeyCode.P))
+        if (Input.GetKeyDown(KeyCode.P))
         {
             Death();
         }

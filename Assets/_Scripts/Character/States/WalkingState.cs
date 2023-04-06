@@ -84,21 +84,21 @@ public class WalkingState : MonoBehaviour, IState
             player.footstepSource.enabled = true;
         }
 
-        // calculate move direction to pass to character
+        //calculate move direction to pass to character
         if (player.cam != null)
         {
-            // calculate camera relative direction to move:
+            //calculate camera relative direction to move:
             camForward = Vector3.Scale(player.cam.forward, new Vector3(1, 0, 1)).normalized;
             camForward = Vector3.Scale(player.cam.forward, new Vector3(1, 0, 1)).normalized;
             move = v * camForward + h * player.cam.right;
         }
         else
         {
-            // we use world-relative directions in the case of no main camera
+            //use world-relative directions in the case of no main camera
             move = v * Vector3.forward + h * Vector3.right;
         }
         
-        // pass all parameters to the character control script
+        //pass all parameters to the character control script
         Move(move , h);
     }
 

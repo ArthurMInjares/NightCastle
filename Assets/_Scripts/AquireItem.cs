@@ -16,6 +16,11 @@ public class AquireItem : MonoBehaviour
     public GameObject EndingGhostTxt3;
     public GameObject EndingGhostTxt4;
     public GameObject EndingGhostTxt5;
+    public GameObject Librarian;
+    public GameObject Librarian2;
+    public GameObject Librarian3;
+    public GameObject TutorialTrigger;
+    public GameObject MagicRing;
 
     public static bool aquired = false;
     private Renderer rend;
@@ -41,7 +46,11 @@ public class AquireItem : MonoBehaviour
             EndingGhostTxt5.SetActive(true); 
             EndingGhostTxt.SetActive(true);
             NextLevelTrigger.SetActive(true);
-            
+            Librarian.SetActive(false);
+            Librarian2.SetActive(true);
+            Librarian3.SetActive(false);
+            TutorialTrigger.SetActive(false);
+            MagicRing.SetActive(false);
         
     }
 }
