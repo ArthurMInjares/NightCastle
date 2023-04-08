@@ -814,7 +814,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 2
-  m_Text: "\t\t                            Movement :          Arrow Keys\n"
+  m_Text: "\t\t                            Movement :          Left & RightArrowKeys\n"
 --- !u!222 &284011182
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -2883,7 +2883,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -36.8, y: -145}
+  m_AnchoredPosition: {x: -36.8, y: -133.5}
   m_SizeDelta: {x: 1037.1, y: 529.4}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1001687300
@@ -2934,9 +2934,9 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 2
-  m_Text: "\t\n\n\n                                            Sprint :           
-    Shift + left or right direction\n\t               Pause Game :                 
-    esc"
+  m_Text: "\t\n\n\n                                             Sprint :           
+    Shift + LeftOrRightDirection\n\t               Pause Game :                 
+    esc Key"
 --- !u!222 &1001687302
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -10522,8 +10522,8 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 2
-  m_Text: "\t\n\n                                   Jump :                 Space
-    Bar\n                     Ghost Mode :                 e"
+  m_Text: "\t\n\n                              Jump :                 Space Bar\n               
+    Ghost Mode :                    e"
 --- !u!222 &1916190463
 CanvasRenderer:
   m_ObjectHideFlags: 0
