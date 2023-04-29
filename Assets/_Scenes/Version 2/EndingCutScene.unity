@@ -6160,13 +6160,14 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNight Castle\n\n\nCredits\n\n\nCreated
+  m_Text: "\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNight Castle\n\n\nCredits\n\n\nCreated
     by: Arthur Minjares\n\n\nReferences\n\n\n~ Audio ~\n\n\nBackground music:\n(Don't
-    own rights to music)\n\n\n(Main Menu)\n\n- Dark Creepy Gothic Piano Music - Divination\n\n\n(Library)
-    \n\n - Requiem For A Dream - Very Sad Violin\n\n\n(Kitchen)\n\n- Hello Zepp -
-    SAW Original Score Soundtrack\n\n\n(Master Bedroom)\n\n - Freddy Krueger Theme
-    song\n\n\n(Ending Scene)\n\n- Dark Creepy Gothic Piano Music - Divination\n\n\n~
-    Assets ~\n\n\nSome Free Assets packages\n\nUnity Asset Store\n"
+    own rights to music)\n\n\n(Main Menu)\n\n- Dark Creepy Gothic Piano Music - Divination\n\n\n(Short
+    Movie Scene)\n\n- Candy Man - Theme song\n\n\n(Library) \n\n - Requiem For A
+    Dream - Very Sad Violin\n\n\n(Kitchen)\n\n- Hello Zepp - SAW Original Score Soundtrack\n\n\n(Master
+    Bedroom)\n\n - Freddy Krueger Theme song\n\n\n(Ending Scene)\n\n- Dark Creepy
+    Gothic Piano Music - Divination\n\n\n~ Assets ~\n\n\nSome Free Assets packages\n\nUnity
+    Asset Store\n"
 --- !u!222 &1422085794
 CanvasRenderer:
   m_ObjectHideFlags: 0
